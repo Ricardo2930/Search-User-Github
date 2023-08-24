@@ -64,6 +64,7 @@ img {
 #iconogit:hover {
   color: #000000;
   background-color: aliceblue;
+  transition: 0.8s;
 }
 
 @media screen and (max-width: 414px) {
